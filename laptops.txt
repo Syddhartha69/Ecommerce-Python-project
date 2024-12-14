@@ -1,5 +1,0 @@
-Razer Blade 16,Razer    ,$1750,600,RTX 2060,i3 13th Gen
-Zephyrus      ,ROG      ,$2500,700,RTX 4090,i8 9th Gen
-X16           ,Alienware,$5700,700,RTX 3080,i5 13th Gen
-Predator      ,Acer     ,$1200,700,RTX 3060,i9 9th Gen
-Macbook Air   ,Apple    ,$2700,700,RTX 3050,i5 7th Gen
